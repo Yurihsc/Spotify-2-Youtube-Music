@@ -1,0 +1,4 @@
+{
+  'English': 'Open Youtube Music on Browser, go to Network in DevTools, update the web page, go to music.youtube.com, copy the Response Headers content and generate a json file from that',
+  'Português': 'Abra o Youtube Music no navegador, va para Network na aba de DevTools, atualize a página do navegador, vá para music.youtube.com, copie o conteúdo de Response Headers e gere um arquivo json disso.'
+}

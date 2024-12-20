@@ -1,0 +1,6 @@
+{
+    "CLIENT_ID": "xxxxxxxxxxx",
+    "CLIENT_SECRET": "xxxxxxxxxx",
+    "REDIRECT_URI": "http://localhost:8888/callback",
+    "SCOPE": "playlist-read-private"
+}
